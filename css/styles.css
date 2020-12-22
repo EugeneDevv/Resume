@@ -10,6 +10,10 @@
 body {
   background: linear-gradient(to right, #3525af, #9153c9);
 }
+a:link {
+  color: #fff;
+  text-decoration: none;
+}
 
 .resume {
   width: 800px;
@@ -212,4 +216,8 @@ body {
   height: 90%;
   background: #9153c9;
   border-radius: 50%;
+}
+.wrap_text {
+  display: flex;
+  flex-direction: column;
 }
