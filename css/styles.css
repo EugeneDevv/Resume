@@ -16,9 +16,9 @@ a:link {
 }
 
 .resume {
-  width: 800px;
+  width: 100%;
   background: #fff;
-  margin: 25px auto;
+  margin: 0;
   display: flex;
 }
 .left {
